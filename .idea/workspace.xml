@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bc6ca8c-00cb-46e9-bbeb-2bc6fb3f4d41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop_IT3102.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/Choice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/FirstDegreeEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/FirstDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/HelloNameDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/ShowTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/SumTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/Sum_Cont.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/asterisk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/week1/Lab01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_IT3102/week1/helloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Choice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Choice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/FirstDegreeEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/FirstDegreeEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/FirstDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/FirstDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/HelloNameDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/HelloNameDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Lab01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/ShowTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/ShowTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/SumTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/SumTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Sum_Cont.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Sum_Cont.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/asterisk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/asterisk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/helloWorld.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z2HKgSaJ0efV57GZVzLWHJwVwO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oop_lab/Aims" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Dockerfile" />
+  </component>
+  <component name="RunManager" selected="Application.DateUtils">
+    <configuration name="Book_menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.Book_menu" />
+      <module name="oop_IT3102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Complex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.Complex" />
+      <module name="oop_IT3102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.DateUtils" />
+      <module name="oop_IT3102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDate (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.MyDate" />
+      <module name="oop_IT3102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyDate" />
+      <module name="oop_IT3102" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DateUtils" />
+        <item itemvalue="Application.MyDate (1)" />
+        <item itemvalue="Application.Complex" />
+        <item itemvalue="Application.MyDate" />
+        <item itemvalue="Application.Book_menu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc6ca8c-00cb-46e9-bbeb-2bc6fb3f4d41" name="Default Changelist" comment="" />
+      <created>1584030207060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584030207060</updated>
+      <workItem from="1584030210905" duration="735000" />
+      <workItem from="1584089831411" duration="9853000" />
+      <workItem from="1584680183705" duration="2262000" />
+      <workItem from="1584712056486" duration="11864000" />
+      <workItem from="1585291939268" duration="1163000" />
+      <workItem from="1585310022877" duration="11686000" />
+      <workItem from="1585327278225" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1238" y="232" width="383" height="634" key="#com.intellij.ide.util.MemberChooser" timestamp="1584723155894">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="1238" y="232" width="383" height="634" key="#com.intellij.ide.util.MemberChooser/0.26.1920.1054@0.26.1920.1054" timestamp="1584723155894" />
+    <state x="1120" y="250" width="629" height="601" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584093317302">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="1120" y="250" width="629" height="601" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.26.1920.1054@0.26.1920.1054" timestamp="1584093317302" />
+    <state x="1191" y="305" key="FileChooserDialogImpl" timestamp="1585327324184">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="1191" y="305" key="FileChooserDialogImpl/0.26.1920.1054@0.26.1920.1054" timestamp="1585327324184" />
+    <state width="1872" height="277" key="GridCell.Tab.0.bottom" timestamp="1585327224512">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1872" height="277" key="GridCell.Tab.0.bottom/0.26.1920.1054@0.26.1920.1054" timestamp="1585327224512" />
+    <state width="1872" height="277" key="GridCell.Tab.0.center" timestamp="1585327224512">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1872" height="277" key="GridCell.Tab.0.center/0.26.1920.1054@0.26.1920.1054" timestamp="1585327224511" />
+    <state width="1872" height="277" key="GridCell.Tab.0.left" timestamp="1585327224511">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1872" height="277" key="GridCell.Tab.0.left/0.26.1920.1054@0.26.1920.1054" timestamp="1585327224511" />
+    <state width="1872" height="277" key="GridCell.Tab.0.right" timestamp="1585327224512">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="1872" height="277" key="GridCell.Tab.0.right/0.26.1920.1054@0.26.1920.1054" timestamp="1585327224512" />
+    <state width="912" height="345" key="GridCell.Tab.1.bottom" timestamp="1584725640332">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="912" height="345" key="GridCell.Tab.1.bottom/0.26.1920.1054@0.26.1920.1054" timestamp="1584725640332" />
+    <state width="912" height="345" key="GridCell.Tab.1.center" timestamp="1584725640331">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="912" height="345" key="GridCell.Tab.1.center/0.26.1920.1054@0.26.1920.1054" timestamp="1584725640331" />
+    <state width="912" height="345" key="GridCell.Tab.1.left" timestamp="1584725640331">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="912" height="345" key="GridCell.Tab.1.left/0.26.1920.1054@0.26.1920.1054" timestamp="1584725640331" />
+    <state width="912" height="345" key="GridCell.Tab.1.right" timestamp="1584725640332">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="912" height="345" key="GridCell.Tab.1.right/0.26.1920.1054@0.26.1920.1054" timestamp="1584725640332" />
+    <state x="502" y="101" key="SettingsEditor" timestamp="1584091678231">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="502" y="101" key="SettingsEditor/0.26.1920.1054@0.26.1920.1054" timestamp="1584091678231" />
+    <state x="1025" y="155" width="885" height="814" key="new project wizard" timestamp="1585327335974">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="1025" y="155" width="885" height="814" key="new project wizard/0.26.1920.1054@0.26.1920.1054" timestamp="1585327335974" />
+    <state x="1104" y="254" key="run.anything.popup" timestamp="1584725552580">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="1104" y="254" key="run.anything.popup/0.26.1920.1054@0.26.1920.1054" timestamp="1584725552580" />
+    <state x="1079" y="258" width="720" height="678" key="search.everywhere.popup" timestamp="1584091283339">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="1079" y="258" width="720" height="678" key="search.everywhere.popup/0.26.1920.1054@0.26.1920.1054" timestamp="1584091283339" />
+  </component>
+</project>
